@@ -93,9 +93,11 @@ http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1,Discovery Channel
 http://103.81.104.222/live/discovery-ch/index.m3u8
-#EXTINF:-1,Channel T1
+#EXTINF:-1,National Geographic
+http://103.81.104.222/live/nat-geo/index.m3u8
+#EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Provashi Bangla
 http://vod.beeiptv.com:8081/vod/probashibangla/playlist.m3u8
@@ -105,6 +107,16 @@ http://72.139.72.18:1935/live/myStream/playlist.m3u8
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
 #EXTINF:-1,NRB TV
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1,NRB Connect
+http://vod.beeiptv.com:8081/NRB/nrbconnect/playlist.m3u8
+#EXTINF:-1,S Vision
+http://vod.beeiptv.com:8081/Svision/svisiontv/playlist.m3u8
+#EXTINF:-1,Sristy TV
+http://vod.beeiptv.com:8081/sristy/sristytv/playlist.m3u8
+#EXTINF:-1,Chsnnel S
+http://cdn01.eiego.net:8081/playout/channels/playlist.m3u8
+#EXTINF:-1,Shopno
+http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 #EXTINF:-1,Deshe Bideshe
 http://23.106.120.56:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/live-orgin/deshebideshe.stream/chunks.m3u8
 #EXTINF:-1,TVone UK
@@ -245,6 +257,8 @@ https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,FAMILY
 http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,Itv Usa
+http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 #EXTINF:-1,Ind vs Ban 1
 http://red.aslivetv.club/sports/IndvsBan.m3u8
 #EXTINF:-1,Ind vs Ban 2
@@ -565,6 +579,14 @@ https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/abr/tracks-v1a1/mono.m3u8
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1,KAUMUDY TV
 http://28noromvdm6g-hls-live.wmncdn.net/kaumuditv1/live.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,Joy TV
+http://joytv.livebox.co.in/joytvhls/live.m3u8
+#EXTINF:-1,8tv
+http://live-8tv.cdnvideo.ru/8tv/8tv.sdp/playlist.m3u8
+#EXTINF:-1,Sahel TV
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1,Tunisie Immobiler
+http://142.44.214.231:1935/tunimmob/myStream/playlist.m3u8
 #EXTINF:-1,NEPALI TV
 http://live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
 #EXTINF:-1,TURAN TV
@@ -638,7 +660,7 @@ http://27.147.156.14:1935/9-XM/9-XM.stream/playlist.m3u8
 #EXTINF:-1,9x Jalwa
 http://27.147.156.14:1935/9x-Jalwa/9x-Jalwa.stream/playlist.m3u8
 #EXTINF:-1,9xO
-http://103.68.116.50/live/feed1010/index.m3u8
+http://27.147.156.14:1935/9-XO/9-XO.stream/playlist.m3u8
 #EXTINF:-1,Zoom
 https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1,B4U Music
