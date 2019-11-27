@@ -25,7 +25,7 @@ https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1,Channel S
+#EXTINF:-1,Channel S UK
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1,DBC News
 http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
@@ -85,8 +85,10 @@ http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 http://163.172.29.246:8081/globe/colorsbangla/chunks.m3u8
 #EXTINF:-1,Sony Aath
 http://103.81.104.222/live/sonyaath/index.m3u8
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1,Star Jalsha (1)
 http://163.172.29.246:8081/globe/starjalsha/chunks.m3u8
+#EXTINF:-1,Star Jalsha (2)
+http://103.81.104.222/live/starjalsha/index.m3u8
 #EXTINF:-1,Jalsha Movies
 http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla
@@ -193,16 +195,18 @@ http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 #EXTINF:-1,Star TV Bangla
 http://43.231.22.238:8081/startvbangla/startv/chunks.m3u8
-#EXTINF:-1,Doom Music
-http://27.147.156.14:1935/Dhoom-Music/Dhoom-Music.stream/chunklist_w105486853.m3u8
-#EXTINF:-1,Gaan Bangla
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1,Sangeet Bangla
-http://103.121.36.238:8081/live/sangeetbangla/chunks.m3u8
 #EXTINF:-1,ATN Music
 http://iptvbd.jagobd.com:1934/atnapp/atnmusic.stream/playlist.m3u8
 #EXTINF:-1,RTV Music
 http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/chunks.m3u8
+#EXTINF:-1,Gaan Bangla
+http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1,Sangeet Bangla
+http://103.121.36.238:8081/live/sangeetbangla/chunks.m3u8
+#EXTINF:-1,Music Fatafati
+http://209.126.117.64:1935/local/mf/playlist.m3u8
+EXTINF:-1,Doom Music
+http://27.147.156.14:1935/Dhoom-Music/Dhoom-Music.stream/chunklist_w105486853.m3u8
 #EXTINF:-1,Assam Talk
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1,DY365
@@ -234,7 +238,7 @@ http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1,NICK 1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/174.ts
+http://103.81.104.222/live/nick-jr/index.m3u8
 #EXTINF:-1,NICK 2
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,KETNET JUNIOR
@@ -257,8 +261,6 @@ https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1,FAMILY
 http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-#EXTINF:-1,Itv Usa
-http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 #EXTINF:-1,Ind vs Ban 1
 http://red.aslivetv.club/sports/IndvsBan.m3u8
 #EXTINF:-1,Ind vs Ban 2
@@ -387,6 +389,8 @@ http://m.live.net.sa:1935/live/sunnah/chunklist_w130539997.m3u8?v=3161277789
 https://svs.itworkscdn.net/madanitvenlive/mdtve.smil/playlist.m3u8
 #EXTINF:-1,MADANI CHANNEL (Urdu)
 https://svs.itworkscdn.net/madanitvurdulive/mdtvu.smil/playlist.m3u8
+#EXTINF:-1,Itv Usa
+http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 #EXTINF:-1,ARY DIGITAL
 http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
 #EXTINF:-1,HUM MASALA
