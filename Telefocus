@@ -16,7 +16,7 @@ http://27.147.156.14:1935/Bijoy-TV/Bijoy-TV.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1,BTV
-http://103.3.226.74:1934/cZVydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/playlist.m3u8
 #EXTINF:-1,BTV World
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL 9
@@ -83,22 +83,18 @@ http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 #EXTINF:-1,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Sony Aath
-http://103.81.104.222/live/sonyaath/index.m3u8
-#EXTINF:-1,Star Jalsha (1)
-http://163.172.29.246:8081/globe/starjalsha/chunks.m3u8
-#EXTINF:-1,Star Jalsha (2)
-http://103.81.104.222/live/starjalsha/index.m3u8
+#EXTINF:-1,Star Jalsha
+http://103.111.120.46/hls/Star_Jalsha.m3u8
 #EXTINF:-1,Jalsha Movies
 http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla
 https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
-#EXTINF:-1,Discovery Channel
-http://103.81.104.222/live/discovery-ch/index.m3u8
-#EXTINF:-1,National Geographic
-http://103.81.104.222/live/nat-geo/index.m3u8
+#EXTINF:-1,Action TV
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/actiontv.stream/playlist.m3u8
+#EXTINF:-1,Nan TV
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/playlist.m3u8
 #EXTINF:-1,CHANNEL T1
 http://128.199.212.160/channelt1/1080/index.m3u8
 #EXTINF:-1,Provashi Bangla
@@ -223,8 +219,6 @@ http://news7.mycast.in/encode/news7/playlist.m3u8
 http://gmkd57vernxo-hls-live.wmncdn.net/mbctv/live.stream/index.m3u8
 #EXTINF:-1,Naxatra News
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
-#EXTINF:-1,DISENY XD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/171.ts
 #EXTINF:-1,Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,Disney Junior USA
@@ -237,9 +231,7 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,NICK 1
-http://103.81.104.222/live/nick-jr/index.m3u8
-#EXTINF:-1,NICK 2
+#EXTINF:-1,NICK
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
@@ -379,6 +371,8 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1,TAG TV
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1,RT News
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtnews.stream/playlist.m3u8
 #EXTINF:-1,Zee News
 http://216.144.250.174/Zee_NeWs_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Makkah LIVE
@@ -439,8 +433,6 @@ https://akamai.anytv.live/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,Zee Cinema 3
 http://216.144.250.174/Zee_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fox Action Movies
-http://103.121.36.238:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,B4U Movies
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1,BOLLYWOOD CLASSIC
@@ -495,8 +487,10 @@ https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,HUM SITARAY
 http://27.147.156.14:1935/HUM_SITARAY/HUM_SITARAY.stream/chunklist_w186688056.m3u8
-#EXTINF:-1,Sony TV
+#EXTINF:-1,Sony TV 1
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony TV 2
+http://103.121.36.238:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,SONY MAX 1
 http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
 #EXTINF:-1,SONY MAX 2
@@ -506,6 +500,8 @@ http://216.144.250.174/Sony_MaX_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MIX 1
 http://216.144.250.174/Sony_Mix_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony MIX 2
+http://27.147.156.14:1935/Sony-Mix/Sony-Mix.stream/chunklist_w1095948083.m3u8
+#EXTINF:-1,Sony MIX 3
 http://103.68.116.50/live/feed1009/index.m3u8
 #EXTINF:-1,Sony SAB
 http://216.144.250.174/S0ny_Sab_HD/tracks-v1a1/mono.m3u8
@@ -639,6 +635,12 @@ http://ktvhdnp24.ekantipur.com:8081/ktvhdedgenp1/edgenpcdnlive1/playlist.m3u8
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,History TV
 https://itpolly.iptv.digijadoo.net/live/history_tv/chunks.m3u8
+#EXTINF:-1,VoA TV
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/playlist.m3u8
+#EXTINF:-1,US TV
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/uatv.stream/playlist.m3u8
+#EXTINF:-1,RT Documentary
+http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtdocumentary.stream/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://103.121.36.238:8081/live/animalplanet-13/chunks.m3u8
 #EXTINF:-1,NAT GEO WILD 1
@@ -659,6 +661,8 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1,TLC
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,ARY Music
+http://27.147.156.14:1935/ARY-Music/ARY-Music.stream/index.m3u8
 #EXTINF:-1,9xM
 http://27.147.156.14:1935/9-XM/9-XM.stream/playlist.m3u8
 #EXTINF:-1,9x Jalwa
@@ -671,7 +675,11 @@ https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1,CINE VOICE
 http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1,Masthi
+#EXTINF:-1,Music India
+http://27.147.156.14:1935/Music-India/Music-India.stream/playlist.m3u8
+#EXTINF:-1,Music Mastii 1
+http://27.147.156.14:1935/Mastii/mastii.stream/playlist.m3u8
+#EXTINF:-1,Music Mastii 2
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
