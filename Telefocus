@@ -227,7 +227,9 @@ http://45.126.83.51/dr9445/h/h02/01.m3u8
 http://103.111.120.46/hls/Carton_Network.m3u8
 #EXTINF:-1,CARTOON NETWORK 2
 http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:-1,NICK
+#EXTINF:-1,Nick 1
+http://103.121.36.238:8081/live/nike-50/chunks.m3u8
+#EXTINF:-1,Nick 2
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
@@ -393,6 +395,8 @@ http://95.86.32.7:999/food
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,FOOD52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1,FOODIEE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1,Star Movies India
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Movies UAE
@@ -404,7 +408,7 @@ http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/5699
 #EXTINF:-1,A HBO
 http://ott-cdn.ucom.am/s64/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,ROMEDY NOW
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+http://103.121.36.238:8081/live/romedynow/playlist.m3u8
 #EXTINF:-1,MOVIE KINGDOM
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,MY CINEMA CHANNEL
@@ -423,6 +427,8 @@ http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
 http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1,& prive
 http://103.121.36.238:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1,& TV
+http://103.121.36.238:8081/live/andtv-27/chunks.m3u8
 #EXTINF:-1,Zee Cinema 1
 https://akamai.anytv.live/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee Cinema 2
@@ -477,7 +483,7 @@ https://akamai.anytv.live/ColorsHHD/tracks-v1a1/mono.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,HUM SITARAY
 http://27.147.156.14:1935/HUM_SITARAY/HUM_SITARAY.stream/chunklist_w186688056.m3u8
-#EXTINF:-1,Fox Action Movies
+#EXTINF:-1,Fox Action Movies/Sony TV
 http://103.121.36.238:8081/live/sony-40/chunks.m3u8
 #EXTINF:-1,Sony TV 1
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
@@ -507,10 +513,10 @@ https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Vijay
 http://216.144.250.174/Star_VIjay_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee TV 1
+#EXTINF:-1,Zee TV HD
+http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
+#EXTINF:-1,Zee TV
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1,Zee TV 2
-http://27.147.156.14:1935/8-XM/8-XM.stream/chunklist_w1620307040.m3u8
 #EXTINF:-1,ZEE BIOSKOP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:-1,ZEE MUNDO
