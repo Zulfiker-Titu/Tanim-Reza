@@ -397,14 +397,18 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,FOODIEE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1,Star Movies India
+#EXTINF:-1,Star Movies India 1
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Movies India 2
+http://103.121.36.238:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star Movies UAE
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
-#EXTINF:-1,HBO
+#EXTINF:-1,HBO 1
 http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/5699
+#EXTINF:-1,HBO 2
+https://macan.live/hbo.m3u8
 #EXTINF:-1,A HBO
 http://ott-cdn.ucom.am/s64/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,ROMEDY NOW
@@ -421,8 +425,10 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 https://itpolly.iptv.digijadoo.net/live/star_world/playlist.m3u8
 #EXTINF:-1,Star World UAE
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-#EXTINF:-1,& flix
+#EXTINF:-1,& flix 1
 http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1,& flix 2
+https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,& Pictures
 http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:-1,& prive
@@ -560,7 +566,7 @@ http://streamidvo.multitvsolution.in/MKSix-b/playlist.m3u8
 #EXTINF:-1,Mahua Plus
 http://streamidvo.multitvsolution.in/Mahuaplus-c/playlist.m3u8
 #EXTINF:-1,Imayam TV
-Http://streamidvo.multitvsolution.in/ImayamTV-b/playlist.m3u8
+http://streamidvo.multitvsolution.in/ImayamTV-b/playlist.m3u8
 #EXTINF:-1,GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1,GOSREE VISION
@@ -641,7 +647,7 @@ https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1,National Geographic 1
 http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
-#EXTINF:-1,National Geographic 1
+#EXTINF:-1,National Geographic 2
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1,4K TV Showcase
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
