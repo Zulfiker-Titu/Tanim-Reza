@@ -25,7 +25,7 @@ https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 http://27.147.156.14:1935/Channel-24/Channel-24.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL I
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1,Channel S (UK)
+#EXTINF:-1,Channel S UK
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 #EXTINF:-1,DBC News
 http://27.147.156.14:1935/DBC-TV/DBC-TV.stream/chunks.m3u8
@@ -35,6 +35,8 @@ http://27.147.156.14:1935/Deepto-TV-HD/Deepto-TV-HD.stream/chunklist_w992309116.
 http://27.147.156.14:1935/Desh-TV/Desh-TV.stream/chunks.m3u8
 #EXTINF:-1,DURONTO TV
 http://27.147.156.14:1935/Durunto-TV/Duronto-TV.stream/playlist.m3u8
+#EXTINF:-1,SONIC
+https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1,Ekattor TV
 http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ekattor-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Ekushey TV
@@ -78,7 +80,7 @@ https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
 #EXTINF:-1,Sony Aath
 http://103.205.133.42:1935/local/sony_aath_720/playlist.m3u8
 #EXTINF:-1,Star Jalsha
-http://103.111.120.46/hls/Star_Jalsha.m3u8
+http://103.121.36.238:8081/live/starjalsha/chunks.m3u8
 #EXTINF:-1,Jalsha Movies
 http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla
@@ -235,8 +237,6 @@ http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_1916
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,AKARAM KIDZ
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1,SONIC
-https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:-1,RAI GULP
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1,EBS KIDS
@@ -255,11 +255,11 @@ http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
 http://red.aslivetv.club/sports/IndvsBan.m3u8
 #EXTINF:-1,Ind vs Ban 2
 http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
-#EXTINF:-1,Sony Ten1
+#EXTINF:-1,Sony Ten 1
 http://103.121.36.238:8081/live/ten1hd/playlist.m3u8
-#EXTINF:-1,Sony Ten2
+#EXTINF:-1,Sony Ten 2
 http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1,Sony Ten3
+#EXTINF:-1,Sony Ten 3
 http://103.121.36.238:8081/live/ten3hd/playlist.m3u8
 #EXTINF:-1,Sony ESPN
 http://103.121.36.238:8081/live/espnhd/playlist.m3u8
@@ -403,8 +403,6 @@ http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
 http://95.86.32.7:999/food
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
-#EXTINF:-1,FOOD52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,FOODIEE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1,Star Movies (Opt-1)
