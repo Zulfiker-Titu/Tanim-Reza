@@ -283,6 +283,16 @@ http://103.111.120.46/hls/star-sports-select-2-hd.m3u8
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1,Ten Sports
 http://163.172.85.133:8080/TenS/sports/index.m3u8
+#EXTINF:-1,Bein Sports 1
+https://2.makalemun.com/dd3_200.m3u8
+#EXTINF:-1,Bein Sports 2
+https://2.makalemun.com/dd3_201.m3u8
+#EXTINF:-1,Bein Sports 3
+https://2.makalemun.com/dd3_202.m3u8
+#EXTINF:-1,Gol TV
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
+#EXTINF:-1,RTSH Sport
+http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1,Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1,Abudhabi Sports 1
@@ -397,18 +407,16 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1,FOODIEE
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1,Star Movies India (Opt-1)
+#EXTINF:-1,Star Movies (Opt-1)
 https://akamai.anytv.live/StarMoviesHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Movies India (Opt-2)
+#EXTINF:-1,Star Movies (Opt-2)
 http://103.121.36.238:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1,Star Movies (UAE)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
-#EXTINF:-1,HBO (Opt-1)
-http://m3ulink.com:7899/effects360wireless1-restream/2Q4boqEN/5699
-#EXTINF:-1,HBO (Opt-2)
-https://macan.live/hbo.m3u8
+#EXTINF:-1,MVX HD
+http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
 #EXTINF:-1,A HBO
 http://ott-cdn.ucom.am/s64/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,ROMEDY NOW
@@ -449,8 +457,10 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,WOWOW CINEFIL
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1,RAI MOVIE
+#EXTINF:-1,Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Rai Premium 
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1,HOLLYWOOD MOVIES 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1,HOLLYWOOD MOVIES 2
@@ -513,7 +523,7 @@ http://103.121.36.238:8081/live/sonypix-42/chunks.m3u8
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1,Star Plus (Opt-2)
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold (Opt-l)
+#EXTINF:-1,Star Gold (Opt-1)
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1,Star Gold (Opt-2)
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
@@ -711,9 +721,9 @@ http://51.15.236.137/hls/stream.m3u8
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1,BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,Q Music
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
-#EXTINF:-1,MTV
+#EXTINF:-1,MTV/vh1
 http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MK Tunes
 http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
