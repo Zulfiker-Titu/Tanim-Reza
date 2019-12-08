@@ -91,8 +91,6 @@ http://27.147.156.14:1935/Zee-Bangla-Cinema/Zee-Bangla-Cinema.stream/chunks.m3u8
 http://streamidvo.multitvsolution.in/RPlusGold-e/playlist.m3u8
 #EXTINF:-1,Orange Bangla
 http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
-#EXTINF:-1,nexGTv Bengali Movies
-http://movies.nexg.tv/movie-b/movie-b.smil/playlist.m3u8
 #EXTINF:-1,DD Bangla
 http://streamidvo.multitvsolution.in/DDBangla-c/playlist.m3u8
 #EXTINF:-1,ABP Ananada
@@ -287,12 +285,6 @@ http://103.111.120.46/hls/star-sports-select-2-hd.m3u8
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1,Ten Sports
 http://163.172.85.133:8080/TenS/sports/index.m3u8
-#EXTINF:-1,Bein Sports 1
-https://2.makalemun.com/dd3_200.m3u8
-#EXTINF:-1,Bein Sports 2
-https://2.makalemun.com/dd3_201.m3u8
-#EXTINF:-1,Bein Sports 3
-https://2.makalemun.com/dd3_202.m3u8
 #EXTINF:-1,Gol TV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF:-1,RTSH Sport
@@ -417,16 +409,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
 #EXTINF:-1,MNX HD
 http://103.121.36.238:8081/live/mnx/playlist.m3u8
-#EXTINF:-1,nexGTv Hollywood Movies
-http://movies.nexg.tv/movie-h/_definst_/movie-h.smil/playlist.m3u8
-#EXTINF:-1,nexGTv Movies
-http://movies.nexg.tv/movie/_definst_/movie.smil/playlist.m3u8
-#EXTINF:-1,nexGTv Classic
-http://movies.nexg.tv/movie-cl/_definst_/movie-cl.smil/playlist.m3u8
-#EXTINF:-1,nexGTv Cinema Movies
-http://movies.nexg.tv/movie-c/_definst_/movie-c.smil/playlist.m3u8
-#EXTINF:-1,nexGTv Tamil Movies
-http://movies.nexg.tv/movie-t/movie-t.smil/playlist.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
 #EXTINF:-1,A HBO
