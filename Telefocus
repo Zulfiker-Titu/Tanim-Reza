@@ -285,6 +285,12 @@ http://103.111.120.46/hls/star-sports-select-2-hd.m3u8
 http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1,Ten Sports
 http://163.172.85.133:8080/TenS/sports/index.m3u8
+#EXTINF:-1,Bein Sports 1
+https://2.makalemun.com/dd3_200.m3u8
+#EXTINF:-1,Bein Sports 2
+https://2.makalemun.com/dd3_201.m3u8
+#EXTINF:-1,Bein Sports 3
+https://2.makalemun.com/dd3_202.m3u8
 #EXTINF:-1,Gol TV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF:-1,RTSH Sport
@@ -433,8 +439,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 http://103.121.36.238:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1,& flix (Opt-2)
 https://akamai.anytv.live/StarBharatHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,& Pictures
+#EXTINF:-1,& Pictures (Opt-01)
 http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:-1,& Pictures (Opt-02)
+http://akamai.anytv.live/AndPicHHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,& prive
 http://103.121.36.238:8081/live/andprive-28/chunks.m3u8
 #EXTINF:-1,& TV
