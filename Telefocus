@@ -243,6 +243,8 @@ http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_1916
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1,AKARAM KIDZ
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1,Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,Kids TV
@@ -293,6 +295,10 @@ https://2.makalemun.com/dd3_200.m3u8
 https://2.makalemun.com/dd3_201.m3u8
 #EXTINF:-1,Bein Sports 3
 https://2.makalemun.com/dd3_202.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,ESPN
+http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,Gol TV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 #EXTINF:-1,RTSH Sport
@@ -351,6 +357,8 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://103.118.76.229:1935/tvprogram/BBC-WORLD/playlist.m3u8
 #EXTINF:-1,CNN
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:-1,cna
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master01.m3u8
 #EXTINF:-1,Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1,DW
@@ -403,8 +411,6 @@ http://vodaapp.shemaroo.com/gangaaarti/Stream1/playlist.m3u8
 http://cdn.live.shemaroome.com/karanimata/smil:karanimataadp.smil/chunklist_b1128000_sleng.m3u8
 #EXTINF:-1,HUM MASALA
 http://27.147.156.14:1935/HUM_MASALA/HUM_MASALA.stream/playlist.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://95.86.32.7:999/food
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Star Movies HD (Opt-1)
@@ -417,12 +423,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.118.76.229:1935/tvprogram/HBO/playlist.m3u8
 #EXTINF:-1,MBC HD
 http://103.121.36.238:8081/live/mbc-movie/playlist.m3u8
-#EXTINF:-1,MNX HD
+#EXTINF:-1,MNX
 http://103.121.36.238:8081/live/mnx/playlist.m3u8
 #EXTINF:-1,AXN
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
-#EXTINF:-1,A HBO
-http://ott-cdn.ucom.am/s64/index.m3u8?fluxustv.m3u8
 #EXTINF:-1,ROMEDY NOW
 http://103.121.36.238:8081/live/romedynow/playlist.m3u8
 #EXTINF:-1,MOVIE KINGDOM
@@ -703,6 +707,8 @@ http://27.147.156.14:1935/Mastii/mastii.stream/playlist.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1,MK Tunes
+http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
 #EXTINF:-1,Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1,MTV Beats
@@ -715,6 +721,8 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,MUSIC 24
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
+#EXTINF:-1,Music Box
+http://212.26.132.86/hls/mb_ua.m3u8
 #EXTINF:-1,DJING HITS
 https://www.djing.com/tv/hits.m3u8
 #EXTINF:-1,PUBLIC MUSIC
@@ -731,5 +739,5 @@ http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
 http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,MK Tunes
-http://streamidvo.multitvsolution.in/MKTunes-f/playlist.m3u8
+#EXTINF:-1,m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
