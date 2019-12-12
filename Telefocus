@@ -44,7 +44,7 @@ http://103.121.36.238:8081/live/ekushey/chunks.m3u8
 #EXTINF:-1,Gazi TV
 http://103.118.76.229:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1,BD IP 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1576074288/ei/0KfwXYOaE__Sz7sPh7-j2AI/ip/103.118.76.169/id/256XTt0pVuA.1/source/yt_live_broadcast/requiressl/yes/tx/23791946/txs/23791272%2C23791946/hfr/1/maudio/1/gcr/bd/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgIhfftdYSYS7ZELEu71v_vx76QpZ1_7-iwF_P5L-F-wICIQDcRI6x8St0d1G_mHPIyJBU9gS4bryyqymgAp3abQKCDQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1576169410/ei/YhvyXeSfGoGe8QPh_7HgCQ/ip/103.118.76.169/id/256XTt0pVuA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/bd/go/1/keepalive/yes/fexp/23842630/beids/9466588/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhANgVPFjl1JNDrRk4nERrLfTeLDVaw-wXMBemBnz9HC1AAiBTLtLD7CGP7WMvh5x6RhbFiOARr7hrG37UTsJq58Jyeg%3D%3D/file/index.m3u8
 #EXTINF:-1,BD IP 2
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
@@ -727,6 +727,8 @@ http://51.15.236.137/hls/stream.m3u8
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1,BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1,51
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1,MTV/vh1
 http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
 #EXTINF:-1,MTV (India)
@@ -735,3 +737,5 @@ http://103.118.76.229:1935/tvprogram/MTV/playlist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,First Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
