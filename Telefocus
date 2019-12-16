@@ -83,8 +83,10 @@ http://27.147.156.14:1935/Aakaash-Aath/Aakaash-Aath.stream/playlist.m3u8
 https://triangle.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 #EXTINF:-1,Sony Aath
 http://103.118.76.229:1935/tvprogram/SONY-AATH/playlist.m3u8
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1,Star Jalsha (Opt-1)
 http://103.118.76.229:1935/tvprogram/STAR-JALSHA/playlist.m3u8
+#EXTINF:-1,Star Jalsha (Opt-2)
+http://103.111.120.46/hls/Star_Jalsha.m3u8
 #EXTINF:-1,Jalsha Movies
 http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
 #EXTINF:-1,Zee Bangla (Opt-1)
@@ -294,17 +296,17 @@ http://103.121.36.238:8081/live/skyfootball/chunks.m3u8
 #EXTINF:-1,Ten Sports
 http://103.81.104.222/live/ten-cricket/index.m3u8
 #EXTINF:-1,Bein Sports 1
-https://2.makalemun.com/dd3_200.m3u8
-#EXTINF:-1,Bein Sports 2
-https://2.makalemun.com/dd3_201.m3u8
-#EXTINF:-1,Bein Sports 3
-https://2.makalemun.com/dd3_202.m3u8
+https://sportbar.biz/lba/123/g5/beinsport1tur.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1,ESPN
 http://npse.brots.world/espn2.m3u8
 #EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
+#EXTINF:-1,7 Four HD
+https://alkasmsl4.akamaized.net/hls/live/2003123/four4ansdbv/master570.m3u8
+#EXTINF:-1,Albania Sport
+https://sportbar.biz/lba/123/g8/albaniasport3.m3u8
 #EXTINF:-1,Dsport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1,Abudhabi Sports 1
@@ -433,6 +435,8 @@ http://103.121.36.238:8081/live/mnx/playlist.m3u8
 http://210.210.155.35/session/b2c42346-fb7e-11e9-b0e3-977c96db5c70/uq2663/h/h141/01.m3u8
 #EXTINF:-1,ROMEDY NOW
 http://103.121.36.238:8081/live/romedynow/playlist.m3u8
+#EXTINF:-1,Alfajer 2
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1,24/7 SCI-FI MOVIES
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:-1,Star World
@@ -652,9 +656,11 @@ http://player-api.new.livestream.com/accounts/27755193/events/8452383/live.m3u8
 #EXTINF:-1,TV7 COLMAR
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1,FOX Life
-https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+https://triangle.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 #EXTINF:-1,History TV
 http://103.121.36.238:8081/live/history/chunks.m3u8
+#EXTINF:-1,History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1,VoA TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voa.stream/playlist.m3u8
 #EXTINF:-1,US TV
